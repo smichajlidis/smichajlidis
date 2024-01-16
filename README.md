@@ -8,9 +8,6 @@ I'm Sławomir, a computer science student based in Wrocław, Poland, on a contin
 - 🚀 Focusing on deepening my understanding of C++.
 - 🐧 Linux enthusiast, currently working on Debian.
 
-## Learning Journey
-As a student passionate about programming, my current focus is on mastering C++. However, I'm excited about the prospect of delving into other languages and technologies in the future.
-
 ## Get in Touch
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/smichajlidis)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/michajlidis)
