@@ -13,9 +13,9 @@ As a student passionate about programming, my current focus is on mastering C++.
 
 ## Get in Touch
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/smichajlidis)
-[<img align="left" alt="email" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=e-mail&logoColor=white" />](smichajlidis@gmail.com)
+[<img align="left" alt="email" src="https://img.shields.io/badge/e-mail-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](smichajlidis@gmail.com)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/michajlidis)
-
+</br></br>
 Let's connect, collaborate, and learn together! 🌟
 
 <!--
