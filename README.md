@@ -10,10 +10,14 @@ I'm Sławomir, a **Computer Science student** based in Wrocław, Poland. Current
 - 🔧 Enjoy troubleshooting and solving technical problems, helping users, and learning practical skills.
 
 ## Get in Touch
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/smichajlidis)  
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/michajlidis)  
+
+[<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/smichajlidis)  
+[<img alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/michajlidis)
+
 </br></br>
+
 #### Let's connect, collaborate, and learn together! 🌟
+
 
 
 <!--
