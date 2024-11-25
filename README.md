@@ -1,18 +1,20 @@
 # Hello World! 👋
 
-I'm Sławomir, a computer science student based in Wrocław, Poland, on a continuous journey of exploration and learning in the world of programming.
+I'm Sławomir, a **Computer Science student** based in Wrocław, Poland. Currently, I'm focused on expanding my knowledge and skills in **IT Support** while continuing my studies in computer science. Although my GitHub hasn't been as active lately, I'm still passionate about technology and learning new things.
 
 ## About Me
-- 🏫 Currently pursuing a degree in Computer Science.
-- 🌐 Based in Wrocław, Poland.
-- 🚀 Focusing on deepening my understanding of C++.
-- 🐧 Linux enthusiast, currently working on Debian.
+- 🏫 **Pursuing a degree in Computer Science** with a focus on IT Support.
+- 🌐 Based in **Wrocław, Poland**.
+- 🚀 Shifting focus from programming (C++) to IT Support and system administration.
+- 🐧 Enthusiast of Linux, currently working with **Debian**.
+- 🔧 Enjoy troubleshooting and solving technical problems, helping users, and learning practical skills.
 
 ## Get in Touch
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/smichajlidis)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/michajlidis)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/smichajlidis)  
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/michajlidis)  
 </br></br>
 #### Let's connect, collaborate, and learn together! 🌟
+
 
 <!--
 **smichajlidis/smichajlidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
