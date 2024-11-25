@@ -18,7 +18,7 @@ I'm Sławomir, a **Computer Science student** based in Wrocław, Poland. Current
   <img alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-</br></br>
+</br>
 
 #### Let's connect, collaborate, and learn together! 🌟
 
