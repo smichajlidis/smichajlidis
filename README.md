@@ -1,13 +1,13 @@
 # Hello World! 👋
 
-I'm Sławomir, a **Computer Science student** based in Wrocław, Poland. Currently, I'm focused on expanding my knowledge and skills in **IT Support** while continuing my studies in computer science. Although my GitHub hasn't been as active lately, I'm still passionate about technology and learning new things.
+I'm Sławomir, a **future IT specialist** currently studying to become a **Certified IT Technician**. I'm passionate about **IT Support**, system administration, and troubleshooting, and I'm actively building my skills and portfolio here on GitHub.
 
 ## About Me
-- 🏫 **Pursuing a degree in Computer Science** with a focus on IT Support.
+- 🏫 **Studying to become a Certified IT Technician** with a focus on IT Support and system administration.
 - 🌐 Based in **Wrocław, Poland**.
-- 🚀 Shifting focus from programming (C++) to IT Support and system administration.
-- 🐧 Enthusiast of Linux, currently working with **Debian**.
-- 🔧 Enjoy troubleshooting and solving technical problems, helping users, and learning practical skills.
+- 🚀 Actively working on projects, gaining hands-on experience, and expanding my knowledge in **technical support** and system management.
+- 🐧 Enthusiast of Linux, currently exploring **Debian** and solving practical IT challenges.
+- 🔧 Passionate about helping users, solving problems, and making technology accessible.
 
 ## Get in Touch
 
@@ -20,20 +20,4 @@ I'm Sławomir, a **Computer Science student** based in Wrocław, Poland. Current
 
 </br>
 
-#### Let's connect, collaborate, and learn together! 🌟
-
-
-<!--
-**smichajlidis/smichajlidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Let's connect, collaborate, and grow together! 🌟
