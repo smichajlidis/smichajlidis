@@ -1,13 +1,13 @@
 # Hello World! 👋
 
-I'm Sławomir, a **future IT specialist** currently studying to become a **Certified IT Technician**. I'm passionate about **IT Support**, system administration, and troubleshooting, and I'm actively building my skills and portfolio here on GitHub.
+I'm Sławomir, an Aspiring IT Specialist passionate about technology, problem-solving, and continuous learning. I'm actively developing my skills and sharing my journey here on GitHub.
 
 ## About Me
-- 🏫 **Studying to become a Certified IT Technician** with a focus on IT Support and system administration.
+- 🏫 **IT** student, constantly expanding my knowledge and hands-on experience.
 - 🌐 Based in **Wrocław, Poland**.
-- 🚀 Actively working on projects, gaining hands-on experience, and expanding my knowledge in **technical support** and system management.
+- 🚀 Exploring various fields of IT, from system **administration** and **networking** to **technical support**.
 - 🐧 Enthusiast of Linux, currently exploring **Debian** and solving practical IT challenges.
-- 🔧 Passionate about helping users, solving problems, and making technology accessible.
+- 🔧 Passionate about learning, troubleshooting, and making technology more accessible.
 
 ## Get in Touch
 
